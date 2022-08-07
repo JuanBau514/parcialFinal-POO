@@ -1,0 +1,3 @@
+; 	     Vanessa   ;       Sistemas   ;       Programacion    ;       10029313   ;       Femenino    ;       4 / 5 / 1992
+; 	     Julian   ;       Electrica   ;       Ingeneria    ;       100931810   ;       Masculino    ;       23 / 5 / 1989
+; 	     Diego   ;       Fisica   ;       Ciencias    ;       100931314   ;       Masculino    ;       14 / 7 / 2003
